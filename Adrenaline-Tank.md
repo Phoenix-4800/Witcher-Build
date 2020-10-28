@@ -53,7 +53,7 @@
 * Sunder Armor / Tissue Transmutation
 * Synergy
 
-*Strengthened Synapses Slots*
+*Strengthened Synapses Slots - Euphoria*
 * Aquired Tolerance
 * Heightened Tolerance
 * Protective Coating
