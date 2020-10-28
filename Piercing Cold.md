@@ -55,7 +55,7 @@
 * Fast Metabolism
 * Protective Coating
 
-*Strengthened Synapses Slots*
+*Strengthened Synapses Slots - Piercing Cold*
 * Magic Trap
 * Sustained Glyphs / Delusion
 * Aard Intensity
